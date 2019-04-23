@@ -1,5 +1,6 @@
-# qBittorrent_search_engine
-Search engines for [qBittorrent](https://www.qbittorrent.org/):
+# qB_search_engines
+Additional plugins for finding more seeds, trackers, etc..
+Special thanks to fellows listed in [this repo](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins).
 
 - KickAss torrent
 - Il Corsaro Blu torrent
